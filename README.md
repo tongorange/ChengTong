@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @a-lovely-orange
+- 👋 Hi, I’m @Cheng Tong
 - 👀 I’m interested in comptuer programing.
 - 🌱 I’m currently learning Real-Time Systems.
 - 💞️ I’m looking to collaborate on ...
